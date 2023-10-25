@@ -211,5 +211,6 @@
             </div>
           </div>
         </section>
+        {{ auth()->user()->name }}
       </div>
 @endsection
