@@ -4,4 +4,4 @@ Traking Support IT merupakan aplikasi untuk memantau kegiatan pemeliharaan baik 
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Traking Support IT is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
